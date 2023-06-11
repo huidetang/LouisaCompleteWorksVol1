@@ -1,12 +1,26 @@
 PREDEF:
-  - preface.re
+  - dedication.re
 
 CHAPS:
-  - test.re
+  - 小説作品:
+    - saigo-no-maru.re
+    - seiya.re
+    - kibou.re
+    - fukkatsu.re
+    - yuki-no-seida.re
+    - wii-sama.re
+    - kabe.re
+    - rusk.re
+    - wakimichi.re
+  - 漢詩作品:
+    - christmas.re
+  - 詩:
+    - tomoni.re
+  - ウクライナ三部作:
+    - ukraine.re
 
 APPENDIX:
 
 POSTDEF:
   - postscript.re
-  - bib.re
 
