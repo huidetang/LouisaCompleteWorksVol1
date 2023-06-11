@@ -59,7 +59,7 @@ aut: [{name: "るいざ・しゃーろっと", file-as: "ルイザ・シャー�
 # a-pbl, pbl: 出版社（発行所） ※ サークル名はここに設定するとよい
 a-pbl: 恢徳堂
 # a-prt, prt: 印刷所
-prt: ねこのしっぽ
+# prt: ねこのしっぽ
 # a-red, red: 項目の枠組起草者
 # a-rev, rev: 評論者
 # a-spn, spn: 援助者
@@ -209,7 +209,7 @@ contentdir: _refiles
 # (文字幅を考慮した行数計測には、別途unicode-eaw gemファイルが必要)
 # ページあたりの行数文字数を用紙サイズで指定する(A5 or B5)
 # page_metric: A5
-page_metric: B6
+page_metric: B5
 #
 # あるいは、配列で指定することもできる
 # 各数字の意味は、順にリストの行数、リストの1行字数、テキストの行数、テキストの1行字数
@@ -359,7 +359,7 @@ texstyle: ["reviewmacro"]
 # オプションについてはsty/README.mdを参照
 # デフォルトは印刷用。電子配布版を作るには media=ebook とする
 # texdocumentclass: ["review-jsbook", "paper=b5,serial_pagination=true,cameraready=ebook,cover=false,hiddenfolio=shippo,fontsize=10pt,line_length=40zw,number_of_lines=34,baselineskip=25.5H"]
-texdocumentclass: ["review-jlreq", "media=print,paper=b6j,fontsize=8pt,serial_pagination=true,hiddenfolio=shippo,startpage=3,tate,twoside,onecolumn,openany"]
+texdocumentclass: ["review-jlreq", "media=print,paper=b5,fontsize=8pt,serial_pagination=true,hiddenfolio=shippo,startpage=3,tate,twoside,onecolumn,openany"]
 #
 # LaTeX用のコマンドを指定する
 # texcommand: "uplatex"
