@@ -36,3 +36,5 @@
 クリスマスを嘆き悲しんではいけませんよ
 
 //printendnotes
+
+//indepimage[nikolai.png]
