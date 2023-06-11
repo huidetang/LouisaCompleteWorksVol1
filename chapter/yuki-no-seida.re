@@ -132,5 +132,3 @@
 //noindent
 なにがあったのかって？@<br>{}
 答えは、雪に聞け。
-
-//indepimage[yamanote.pdf]

@@ -1,11 +1,29 @@
 @charset "UTF-8";
 
-@import url(node_modules/@vivliostyle/theme-base/theme-all.css);
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Nanum+Myeongjo:wght@400;700&family=Shippori+Mincho+B1:wght@400;700&display=swap');
+@font-face {
+  font-family: "Lora";
+  src: url(./fonts/Lora/Lora-VariableFont_wght.ttf), url(./fonts/Lora/Lora-Italic-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: "Shippori Mincho B1";
+  src: url(./fonts/Shippori_Mincho_B1/ShipporiMinchoB1-Regular.ttf),
+    url(./fonts/Shippori_Mincho_B1/ShipporiMinchoB1-SemiBold.ttf),
+    url(./fonts/Shippori_Mincho_B1/ShipporiMinchoB1-Medium.ttf),
+    url(./fonts/Shippori_Mincho_B1/ShipporiMinchoB1-Bold.ttf),
+    url(./fonts/Shippori_Mincho_B1/ShipporiMinchoB1-ExtraBold.ttf);
+}
+
+@font-face {
+  font-family: "Nanum Myeongjo";
+  src: url(./fonts/Nanum_Myeongjo/NanumMyeongjo-Regular.ttf),
+    url(./fonts/Nanum_Myeongjo/NanumMyeongjo-Bold.ttf),
+    url(./fonts/Nanum_Myeongjo/NanumMyeongjo-ExtraBold.ttf);
+}
 
 html {
   writing-mode: vertical-rl;
-  font-family: "Lora", "Shippori Mincho B1", "Nanum Myeongjo", serif;
+  font-family: "Lora", "Shippori Mincho B1", "Nanum Myeongjo";
   text-align: justify;
   /* 約物の調整 */
   text-spacing: space-first allow-end;
@@ -26,9 +44,10 @@ html {
 
 @page {
   size: 105mm 148mm;
-  padding: 20mm;
-  margin: 3mm;
-  font-size: 8pt;
+  width: 140pt;
+  height: 300pt;
+  margin: auto;
+  font-size: 6pt;
 }
 @page :left {
   @top-left {

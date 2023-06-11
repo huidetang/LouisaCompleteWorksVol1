@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "@vivliostyle/cli": "^7.4.0",
-    "@vivliostyle/theme-base": "1.0.0-beta.1"
+    "@vivliostyle/theme-base": "1.0.0-beta.1",
+    "@vivliostyle/theme-bunko": "^0.5.1"
   }
 }
