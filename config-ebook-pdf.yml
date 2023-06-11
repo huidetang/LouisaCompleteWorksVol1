@@ -1,4 +1,4 @@
 inherit: ["config.yml"]
 catalogfile: catalog-download.yml
 bookname: louisa-works-2023-ebook
-texdocumentclass: ["review-jlreq", "media=ebook,paper=b5,fontsize=10pt,serial_pagination=true,tate,twoside,onecolumn"]
+texdocumentclass: ["review-jlreq", "media=ebook,paper=a5,fontsize=10pt,serial_pagination=true,tate,twoside,onecolumn"]
