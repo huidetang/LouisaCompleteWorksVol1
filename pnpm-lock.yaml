@@ -1,9 +1,16 @@
-lockfileVersion: '6.0'
+lockfileVersion: '6.1'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
 
 dependencies:
   '@vivliostyle/cli':
     specifier: ^7.4.0
     version: 7.4.0
+  '@vivliostyle/theme-base':
+    specifier: 1.0.0-beta.1
+    version: 1.0.0-beta.1(@vivliostyle/cli@7.4.0)
 
 devDependencies:
   textlint:
@@ -616,6 +623,17 @@ packages:
     engines: {node: '>=14'}
     dependencies:
       fast-diff: 1.3.0
+    dev: false
+
+  /@vivliostyle/theme-base@1.0.0-beta.1(@vivliostyle/cli@7.4.0):
+    resolution: {integrity: sha512-mGDreDuIwTbg3pB4V6I8n8ri2KRl/POzkt6Gs8iIbnEIn1Lfuy2h18bTXkFRyUxm01/zeHHtM1MNdgavjaBm8A==}
+    peerDependencies:
+      '@vivliostyle/cli': '>=6'
+    peerDependenciesMeta:
+      '@vivliostyle/cli':
+        optional: true
+    dependencies:
+      '@vivliostyle/cli': 7.4.0
     dev: false
 
   /@vivliostyle/vfm@2.1.0:
