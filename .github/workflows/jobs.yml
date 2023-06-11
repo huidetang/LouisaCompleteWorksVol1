@@ -89,7 +89,7 @@ jobs:
       - name: Show .grayscaling.log
         run: cat .grayscaling.log
       - name: Build PDF.
-        run: bundle exec rake clean vivliostyle
+        run: REVIEW_CONFIG_FILE=config-vscli.yml bundle exec rake clean vivliostyle
       - name: Upload artifact.
         uses: actions/upload-artifact@v3
         with:
