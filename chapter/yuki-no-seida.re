@@ -133,6 +133,6 @@
 なにがあったのかって？@<br>{}
 答えは、雪に聞け。
 
-//indepimage[yamanote]
+//indepimage[yamanote][scale=0.6]
 
 //printendnotes

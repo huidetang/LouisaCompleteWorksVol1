@@ -35,6 +35,6 @@
 中年ぼっちが小さな宴を開いているのだから@<br>{}
 クリスマスを嘆き悲しんではいけませんよ
 
-//indepimage[nikolai]
+//indepimage[nikolai][scale=0.6]
 
 //printendnotes
