@@ -47,3 +47,5 @@
 何も知らずに、過ちを犯すしかなかった彼らを。
 
 //indepimage[ukraine.png]
+
+//printendnotes

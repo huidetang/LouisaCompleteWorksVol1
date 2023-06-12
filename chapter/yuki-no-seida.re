@@ -134,3 +134,5 @@
 答えは、雪に聞け。
 
 //indepimage[yamanote.png]
+
+//printendnotes
