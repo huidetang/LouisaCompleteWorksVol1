@@ -48,6 +48,6 @@
 
 先生は、新学期には定年になる。先生の最後の○は、常識を捨て去ったところにある境地だったのだ。
 
-//indepimage[piano.png]
+//indepimage[piano]
 
 //printendnotes

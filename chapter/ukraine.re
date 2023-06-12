@@ -46,6 +46,6 @@
 今だからこそ、無力だった彼らを赦せるのだ。@<br>{}
 何も知らずに、過ちを犯すしかなかった彼らを。
 
-//indepimage[ukraine.png]
+//indepimage[ukraine]
 
 //printendnotes
