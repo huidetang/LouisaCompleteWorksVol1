@@ -6,11 +6,7 @@
 
 それと共に、「第４回　ＶＲメモフラワークショップ」にて、私自身をモチーフに書き上げた自伝的作品になります。
 
-その時の元ツイートは https://twitter.com/Hermit_Heaven/status/1613894820787007490 、マインドマップはこちらになります。
-
-//image[mindmap-louisa][「第４回　ＶＲメモフラワークショップ」でのマインドマップ][scale=0.6]{
-  元ツイート: https://twitter.com/Hermit_Heaven/status/1613894820787007490
-//}
+その時の元ツイートは https://twitter.com/Hermit_Heaven/status/1613894820787007490 になります。
 
 == 本文
 

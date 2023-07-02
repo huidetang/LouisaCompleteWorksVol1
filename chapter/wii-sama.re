@@ -8,11 +8,7 @@
 
 なお、この「ＶＲメモフラワークショップ」は、私立ＶＲＣ学園９期の講師をつとめていただいたＳＵＮ先生による小説の書き方のワークショップです。
 
-その時の元ツイートは https://twitter.com/Hermit_Heaven/status/1590343245661626369 、マインドマップはこちらになります。
-
-//image[mindmap-wii-sama][「第３回　ＶＲメモフラワークショップ」でのマインドマップ][scale=0.6]{
-  元ツイート: https://twitter.com/Hermit_Heaven/status/1590343245661626369
-//}
+その時の元ツイートは https://twitter.com/Hermit_Heaven/status/1590343245661626369 になります。
 
 == 本文
 
