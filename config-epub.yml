@@ -2,4 +2,4 @@ inherit: ["config.yml"]
 catalogfile: catalog-download.yml
 bookname: louisa-works-2023-epub
 coverimage: c102frontcover.png
-backcover: C102backcover.png
+# backcover: C102backcover.png
